@@ -68,7 +68,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 #### 2nd・Installation (Manual installation)
 ```
 $ git clone https://github.com/AastraaDev/Discord-Multi-Tool
-$ python3 astraahome.py
+$ python3 anonix.py
 ```
 
 ## Additional Informations
@@ -82,7 +82,7 @@ Script Informations:
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/826581697436581919/924076906637312060/unknown.png)
+![home.png](https://cdn.discordapp.com/attachments/960063894422945796/961275032607268864/Screenshot_20220406-023810_Termux.jpg)
 
 ## Errors/Fixes
 
