@@ -1,3 +1,3 @@
-python -m pip install -r requirements.txt
+python anonix.py
 cls
-echo python astraahome.py >> "start.bat"
+echo python anonix.py >> "start.bat"
