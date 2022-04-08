@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-All-Tools-In-One.svg?label=Repo%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/AastraaDev/Discord-Multi-Tool">
   </a>
   <a href="https://github.com/AstraaDev">
     <img src="https://gpvc.arturio.dev/AstraaDev">
