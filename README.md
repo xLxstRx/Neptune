@@ -16,8 +16,8 @@
   <a href="https://github.com/AstraaDev">
     <img src="https://img.shields.io/github/repo-size/AastraaDev/Discord-Multi-Tool">
   </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://gpvc.arturio.dev/AstraaDev">
+  <a href="https://github.com/AastraaDev">
+    <img src="![Profile views](https://gpvc.arturio.dev/AastraaDev)
   </a>
   
   </a>
