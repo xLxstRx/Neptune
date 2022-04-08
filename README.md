@@ -30,10 +30,10 @@
 
 ## Disclaimer
 
-|AstraaHome was made for Educational purposes|
+|Anonix was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using AstraaHome, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using Anonix, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
 - [ ] - [Selft Bot]() - Turn your discord account into a self bot.
@@ -50,13 +50,13 @@ By using AstraaHome, you agree that you hold responsibility and accountability o
 - [x] - [Settings Cycler]() - Cycle the color of the Discord theme (Black/White) of a user with his Token.
 - [x] - [Token Informations]() - Get all the information of a Discord User with his Token.
 - [x] - [AutoLogin](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Enter a user's token and automatically log in to the user's account.
-- [x] - [Clear DM](https://github.com/Da532/Clear) - Delete all your messages sent to a person in dm automatically.
+- [x] - [MassDM](https://github.com/V4NSH4J/discord-mass-DM-GO) - Mass DM memberID.
 - [x] - [HypeSquad House Changer]() - Select your HypeSquad House.
 - [x] - [Statue Changer]() - Change your Discord Statue.
 - [x] - [Nitro Generator]() - Generates and tests a Nitro code. If it works, you will be notified.
 - [ ] - [Nitro Sniper]() - Snipe in your servers the nitro links. If a link is found, it will try to put it on your account.
-- [x] - [WebHooks Spammer]() - Spam the message you want through a WebHooks.
-- [x] - [WebHooks Remover]() - Delete any WebHooks link.
+- [x] - [RobloxCookieGrabber]() - Grab Roblox information and Cookie using executable file.
+- [x] - [Image Logger]() - Grab discord and Roblox information by just clicking an image.
 
 ## How To Install
 
