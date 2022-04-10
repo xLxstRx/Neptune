@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/Rdmo1/Discord-Multi-Tool.svg?label=Repo%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/Rdmo1/Premium-Pack.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/Rdmo1">
     <img src="https://gpvc.arturio.dev/Rdmo1">
