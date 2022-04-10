@@ -4,7 +4,7 @@
 
 <h1 align="center">[Discord] - Multi Tool (V2.1)</h1>
 <p align="center">
-  <a href="https://github.com/AastraaDev/Discord-Multi-Tool/blob/main/LICENSE">
+  <a href="https://github.com/Rdmo1/Discord-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
   </a>
   <a href="https://www.python.org">
@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/AastraaDev/Discord-Multi-Tool.svg?label=Repo%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/Rdmo1/Discord-Multi-Tool.svg?label=Repo%20size&style=flat-square">
   </a>
-  <a href="https://github.com/AastraaDev">
-    <img src="https://gpvc.arturio.dev/AastraaDev">
+  <a href="https://github.com/Rdmo1">
+    <img src="https://gpvc.arturio.dev/Rdmo1">
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/AastraaDev/Discord-Multi-Tool.git
+$ git clone https://github.com/Rdmo1/Discord-Multi-Tool.git
 $ python3 -m pip install -r requirements.txt
 $ python3 Tool.py
 ```
@@ -70,7 +70,7 @@ Script Informations:
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/826581697436581919/924076906637312060/unknown.png)
+![home.png](https://cdn.discordapp.com/attachments/962313088202342461/962691161334611998/20220410_202438.jpg)
 
 ## Errors/Fixes
 
