@@ -55,7 +55,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 #### 2nd・Installation (Manual installation)
 ```
 $ git clone https://github.com/AastraaDev/Discord-Multi-Tool.git
-$ python -m pip install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
 $ python3 Tool.py
 ```
 
@@ -79,9 +79,11 @@ pyinstaller is not recognized as an external command
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
-## Python was not Found? ERROR,
+## Python was not Found?
 
-> simply go to your "search bar" and search for "Manage App Execution Aliases" then go to it and turn off "python"
+> Getting this Error? You probably just installed python
+
+> How to fix? Just simply watch this video [here] (https://youtu.be/uBnbVqUmZaQ) and follow the steps to fix it :>
 
 
 
