@@ -83,7 +83,7 @@ pyinstaller is not recognized as an external command
 
 > Getting this Error? You probably just installed python
 
-> How to fix? Just simply watch this video [here] (https://youtu.be/uBnbVqUmZaQ) and follow the steps to fix it :>
+> How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps to fix it :>
 
 
 
