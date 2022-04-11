@@ -54,9 +54,9 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Discord-Multi-Tool.git
+$ git clone https://github.com/Rdmo1/Premium-Pack.git
 $ python3 -m pip install -r requirements.txt
-$ python3 Tool.py
+$ python3 Rdmo1.py
 ```
 
 ## Additional Informations
@@ -70,7 +70,7 @@ Script Informations:
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/962313088202342461/962691161334611998/20220410_202438.jpg)
+![home.png](https://media.discordapp.net/attachments/963098407365378099/963099207533756426/Screenshot_20220406-023810_Termux.jpg)
 
 ## Errors/Fixes
 
