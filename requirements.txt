@@ -1,4 +1,6 @@
-discord_webhook
+pyinstaller
+pyarmor
+gevent
 discord
-discord.py
-pypresence
+discum
+wget
