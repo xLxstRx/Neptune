@@ -1,3 +1,3 @@
-python3 Rdmo1.py
+pip install -r requirements.txt
 cls
-echo python3 Rdmo1.py >> "start.bat"
+echo python Rdmo1.py >> "start.bat"
