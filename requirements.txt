@@ -1,6 +1,6 @@
-pyinstaller
-pyarmor
-gevent
+PyStyle
+pyfade
+curl
 discord
 discum
 wget
