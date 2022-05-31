@@ -49,28 +49,28 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 
 #### 1st・Installation (Automated installation)
 ```
-Launch the setup.bat file. A new file will be created. You will only have to launch it.
+Launch the launcher.bat file. A new file will be created. You will only have to launch it.
 ```
 
 #### 2nd・Installation (Manual installation)
 ```
 $ git clone https://github.com/Rdmo1/Premium-Pack.git
 $ python3 -m pip install -r requirements.txt
-$ python3 Rdmo1.py
+$ python3 main.py
 ```
 
 ## Additional Informations
 General Informations:
 - If you have a problem, [CLICK HERE](https://www.youtube.com/watch?v=27-Swg_MUNw&t=16s) to watch the YouTube video.
 - Find your output files in the  [temp](/temp) folder.
-- If you find any malfunction, contact me on Discord: KFC#8364
+- If you find any malfunction, contact me on Discord: ! KFC#8364
 
 Script Informations:
 - For the operation of the RAT Tool, please refer to the [creator's page](https://github.com/moom825/Discord-RAT).
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://media.discordapp.net/attachments/963098407365378099/963099207533756426/Screenshot_20220406-023810_Termux.jpg)
+![home.png](https://media.discordapp.net/attachments/981258146695741500/981276154428289105/20220601_032035.jpg)
 
 ## Errors/Fixes
 
