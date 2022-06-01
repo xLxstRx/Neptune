@@ -1,8 +1,4 @@
 <p align="center">
-[PATCHED] i"ll update on june 2 or 1
-</p>
-
-<p align="center">
   <img src="https://i.discord.fr/PSS.png">
 </p>
 
