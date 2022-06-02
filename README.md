@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.discord.fr/PSS.png">
+  <img src="https://cdn.discordapp.com/attachments/981758331716788285/981759848251285514/SPOILER_e72cd1b3049474f7a2f496505a6773d2.gif">
 </p>
 
 <h1 align="center">[Discord] - Multi Tool (V2.1)</h1>
