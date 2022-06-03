@@ -1,4 +1,4 @@
-<h1 align="center">UPDATING</h1>
+<h1 align="center">[ PATCHED ] i'll update on june 8 Stay Tune!</h1>
 <p align="center">
 
 <p align="center">
