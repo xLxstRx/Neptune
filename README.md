@@ -36,8 +36,8 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 ## Features
 
 
-- [x] - [File Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
-- [x] - [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
+- [x] - [File Grabber]() - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
+- [x] - [Token Generator]() - Generate a Valid Tokens in a minute!
 - [x] - [IP Grabber]() - Allows you to retrieve the IP of any person who is on a call with you.
 - [x] - [Account Nuker]() - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
 - [x] - [Image Grabber]() - Grab Discord personal info, token , and IP.
