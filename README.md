@@ -1,5 +1,3 @@
-<h1 align="center">[ PATCHED ] i'll update on june 8 Stay Tune!</h1>
-<p align="center">
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/981758331716788285/981759848251285514/SPOILER_e72cd1b3049474f7a2f496505a6773d2.gif">
