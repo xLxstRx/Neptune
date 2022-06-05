@@ -49,12 +49,12 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/977184710235140177/982875431566975066/original.gif">
 </p>
-## Features
 
-|REPO Star rewards!|
+<p align="center">|REPO Star rewards!|
 |-------------------------------------------------|
 25 star + IP Grabber.
-30 star + Link Grabber.
+30 star + Link Grabber.>
+</p>
 
 ## How to Install
 
