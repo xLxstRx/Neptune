@@ -46,11 +46,11 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 - [x] - [WebHooks Spammer]() - Spam the message you want through a WebHooks.
 - [x] - [WebHooks Remover]() - Delete any WebHooks link.
 
-## How To Install
+## How to Install
 
 #### 1st・Installation (Automated installation)
 ```
-Launch the launcher.bat file. A new file will be created. You will only have to launch it.
+Launch the launcher.bat file.
 ```
 
 #### 2nd・Installation (Manual installation)
