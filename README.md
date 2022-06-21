@@ -3,9 +3,9 @@
   <img src="https://cdn.discordapp.com/attachments/977184710235140177/982876656593170432/original.gif">
 </p>
 
-<h1 align="center">[Discord] - Multi Tool (V2.1)</h1>
+<h1 align="center">[Discord & Roblox] - Multi Tool (V2.1)</h1>
 <p align="center">
-  <a href="https://github.com/Rdmo1/Discord-Multi-Tool/blob/main/LICENSE">
+  <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
   </a>
   <a href="https://www.python.org">
@@ -28,7 +28,7 @@
 
 ## Disclaimer
 
-|Discord Multi Tool was made for Educational purposes|
+|DisRo Multi Tool was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
@@ -51,7 +51,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 </p>
 
 ```
-25 repo stars + Link Grabber
+25 repo stars + html grabber ( one click )
 ```
 
 
@@ -64,7 +64,7 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Premium-Pack.git
+$ git clone https://github.com/Rdmo1/DisRo-Multi-Tool
 $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
@@ -82,9 +82,8 @@ Script Informations:
 ## Example
 ![home.png](https://media.discordapp.net/attachments/981258146695741500/981276154428289105/20220601_032035.jpg)
 
-## Errors/Fixes
+## Multi Tool Crashing?
 
-Multi Tool Crashing?
 > try to reinstall python, if not work contact me on discord!
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
