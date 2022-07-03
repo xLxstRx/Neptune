@@ -11,4 +11,3 @@ colorama
 robloxpy
 os
 requests
-discordwebhook
