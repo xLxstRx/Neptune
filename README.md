@@ -80,7 +80,7 @@ Script Informations:
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://media.discordapp.net/attachments/981258146695741500/981276154428289105/20220601_032035.jpg)
+![home.png](https://cdn.discordapp.com/attachments/960568519202852936/988744290953994300/unknown.png)
 
 ## Multi Tool Crashing?
 
