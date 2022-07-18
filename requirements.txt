@@ -11,3 +11,7 @@ colorama
 robloxpy
 os
 requests
+browser_cookie3
+import base64, codecs
+time
+sys
