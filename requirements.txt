@@ -15,3 +15,8 @@ browser_cookie3
 import base64, codecs
 time
 sys
+pyautogui
+zipfile 
+sqlite3 
+shutil
+json
