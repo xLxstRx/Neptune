@@ -1,7 +1,4 @@
-httpx
-pyotp
 psutil
-PIL-tools
 selenium
 undetected-chromedriver
 colorama
