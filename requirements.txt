@@ -12,7 +12,6 @@ robloxpy
 requests
 browser_cookie3
 times
-pyautogui
-sqlite3 
+pyautogui 
 shutil
 json
