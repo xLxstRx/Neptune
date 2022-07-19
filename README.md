@@ -64,7 +64,7 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/DisRo-Multi-Tool
+$ git clone https://github.com/Rdmo1/Rdmo1-Multi-Tool
 $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
