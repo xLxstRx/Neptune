@@ -11,8 +11,7 @@ colorama
 robloxpy
 requests
 browser_cookie3
-time
-sys
+times
 pyautogui
 zipfile 
 sqlite3 
