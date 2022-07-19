@@ -13,7 +13,6 @@ requests
 browser_cookie3
 times
 pyautogui
-zipfile 
 sqlite3 
 shutil
 json
