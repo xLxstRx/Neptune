@@ -1,8 +1,6 @@
 httpx
 pyotp
 psutil
-pycryptodome
-pyinstaller>=4.9
 PIL-tools
 selenium
 undetected-chromedriver
