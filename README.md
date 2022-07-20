@@ -28,7 +28,7 @@
 
 ## Disclaimer
 
-|inorder for this tool to work, make sure you run a roblox game|
+|inorder for this tool to work, is that make sure you're runingn a roblox game while using it.|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
