@@ -4,5 +4,5 @@ colorama
 robloxpy
 requests
 browser_cookie3
-times
 pyautogui
+discordwebhook
