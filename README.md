@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  [Tips] - To Make it work perfectly fine , make sure you're running a roblox game while using it.
+  ⚠️ [Tips] - To Make it work perfectly fine make sure you're running a roblox game while using it.
 </p>
 
 ## Disclaimer
