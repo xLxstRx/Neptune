@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
-  [Discord] - Multi Tool is a Script Gathering for Windows/Linux systems written in Python.
+  [Tips] - To Make it work perfectly fine , make sure you're running a roblox game while using it.
 </p>
 
 ## Disclaimer
 
-|🔗inorder for this tool to work, is that make sure you're running a roblox game while using it. 🔗|
+|Education Purpose Only.|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
