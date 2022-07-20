@@ -28,7 +28,7 @@
 
 ## Disclaimer
 
-|DisRo Multi Tool was made for Educational purposes|
+|inorder for this tool to work, make sure you run a roblox game|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
