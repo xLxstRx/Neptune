@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/977184710235140177/982876656593170432/original.gif">
 </p>
 
-<h1 align="center">[Discord & Roblox] - Multi Tool (V2.1)</h1>
+<h1 align="center">[ Updating "main py" ] stay tuned</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
