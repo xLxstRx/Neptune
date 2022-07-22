@@ -2,7 +2,13 @@ psutil
 selenium
 colorama
 robloxpy
-requests
 browser_cookie3
 pyautogui
 discordwebhook
+requests
+wmi
+cryptography
+discord
+pillow
+pypiwin32
+pycryptodome
