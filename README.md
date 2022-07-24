@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  ⚠️ [Tips] - Put webhook in "config.js", settings in "config.js".
+  ⚠️ [Tips] - Put webhook in "config.js",settings in "config.js".
 </p>
 
 ## Disclaimer
@@ -39,7 +39,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 - [x] - [Discord invite logger]() - Grab discord information by just clicking an invite link.
 - [x] - [Roblox classic-shirt maker]() - Automatic create a t-shirt for your types.
 - [x] - [Discord token generator]() - Generate valid token to use for massdm, advertising , & more.
-- [x] - [Roblox cookie logger]() - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
+- [x] - [Roblox cookie logger]() - .
 - [x] - [Image Grabber]() - Grab Discord personal info, token , and IP.
 - [x] - [Nitro Generator]() - Generates and tests a Nitro code. If it works, you will be notified.
 - [x] - [Nitro Sniper]() - Snipe in your servers the nitro links. If a link is found, it will try to put it on your account.
@@ -75,12 +75,8 @@ General Informations:
 - Find your output files in the  [temp](/temp) folder.
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
-Script Informations:
-- For the operation of the RAT Tool, please refer to the [creator's page](https://github.com/moom825/Discord-RAT).
-- For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
-
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/992998514273550479/999191471041286174/unknown.png)
+![home.png](https://cdn.discordapp.com/attachments/960568519202852936/988744290953994300/unknown.png)
 
 ## Multi Tool Crashing?
 
