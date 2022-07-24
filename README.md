@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/977184710235140177/982876656593170432/original.gif">
+  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1000682293930774559/original.gif">
 </p>
 
 <h1 align="center">[ Discord & Roblox ] Multi Tool. ( chapter 2 )</h1>
@@ -45,11 +45,11 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/977184710235140177/982875431566975066/original.gif">
+  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1000682459983265832/bruh.gif">
 </p>
 
 ```
-25 repo stars + html grabber ( one click )
+25 repo stars + Discord image logger.
 ```
 
 
@@ -69,8 +69,7 @@ $ python3 main.py
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [CLICK HERE](https://www.youtube.com/watch?v=27-Swg_MUNw&t=16s) to watch the YouTube video.
-- Find your output files in the  [temp](/temp) folder.
+- Find your output files in the  [output](/output) folder.
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Example
