@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  ⚠️ [Tips] - Put webhook in "config.js",settings in "config.js".
+  ⚠️ [Tips] - Put webhook in "config.js", settings in "config.js".
 </p>
 
 ## Disclaimer
