@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1001275844087525447/1001777187088781382/Temp-700x600.jpg">
+  <img src="https://cdn.discordapp.com/attachments/1001275844087525447/1001772642606534685/unknown.png">
 </p>
 
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
@@ -74,7 +74,7 @@ General Informations:
 
 ## Example
 - Launch launcher.bat for automatic installation.
-![home.png](https://cdn.discordapp.com/attachments/1001275844087525447/1001771249711726622/final_62e0f9cf0a2c2400e481ceaf_595885.gif)
+![home.png](https://cdn.discordapp.com/attachments/1001275844087525447/1001771249711726622/final_62e0f9cf0a2c2400e481ceaf_595885.gif?size"200")
 
 ## Multi Tool Crashing?
 
