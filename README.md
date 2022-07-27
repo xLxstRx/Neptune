@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/960568519202852936/1001662450304811048/unknown.png?size=2000">
 </p>
 
-<h1 align="center">[ Discord & Roblxo] Multi Tool. { chapter 3 }</h1>
+<h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
