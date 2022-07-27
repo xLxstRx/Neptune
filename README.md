@@ -73,7 +73,7 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Example
-<img src "https://cdn.discordapp.com/attachments/960568519202852936/1001661873713860729/unknown.png" width="200" height="400" />
+![home.png](https://cdn.discordapp.com/attachments/778283706388709376/983080071805952040/unknown.png?size=4096
 
 ## Multi Tool Crashing?
 
