@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/960568519202852936/1000682293930774559/original.gif">
 </p>
 
-<h1 align="center">[ UPDATING MAIN.PY]</h1>
+<h1 align="center">[ Discord & Roblxo] Multi Tool. { chapter 3 }</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -40,7 +40,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 - [x] - [Roblox cookie & password grabber]() - Automatic create a t-shirt for your types.
 - [x] - [Discord video logger]() - Grab dicord information by just playing the video link.
 - [x] - [Discord token generator]() - Generate discord token, all fast & valid.
-- [x] - [Roblox email & phone finder]() - Grab roblox personal info by just id.
+- [x] - [Roblox email & phone grabber]() - Grab roblox personal info by just id.
 - [x] - [Roblox group stealer]() - Steal roblox group without owner and send them to dicord webhook.
 
 
