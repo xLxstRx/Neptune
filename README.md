@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1001662450304811048/unknown.png?size=6000">
+  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1001662450304811048/unknown.png?size=2000">
 </p>
 
 <h1 align="center">[ Discord & Roblxo] Multi Tool. { chapter 3 }</h1>
@@ -45,7 +45,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1000682459983265832/bruh.gif">
+  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1000682459983265832/bruh.gif?size=200">
 </p>
 
 ```
