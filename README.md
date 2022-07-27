@@ -73,7 +73,7 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Example
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://cdn.discordapp.com/attachments/960568519202852936/1001661873713860729/unknown.png" width="200" height="400" />
+<img src "https://cdn.discordapp.com/attachments/960568519202852936/1001661873713860729/unknown.png" width="200" height="400" />
 
 ## Multi Tool Crashing?
 
