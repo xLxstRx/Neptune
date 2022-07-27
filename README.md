@@ -1,4 +1,4 @@
-![home.png](https://media.discordapp.net/attachments/999087343090798764/1001892583762563092/lv_0_20220728003436.gif)
+![](https://media.discordapp.net/attachments/999087343090798764/1001892583762563092/lv_0_20220728003436.gif)
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
