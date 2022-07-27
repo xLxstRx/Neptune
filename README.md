@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/960568519202852936/1001662450304811048/unknown.png?size=2000">
+  <img src="https://cdn.discordapp.com/attachments/1001275844087525447/1001772642606534685/unknown.png">
 </p>
 
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
