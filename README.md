@@ -1,4 +1,4 @@
-[![Watch the video]()](https://media.discordapp.net/attachments/1001275844087525447/1001890457451770049/lv_0_20220728003436.mp4)
+[![]()](https://media.discordapp.net/attachments/1001275844087525447/1001890457451770049/lv_0_20220728003436.mp4)
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
