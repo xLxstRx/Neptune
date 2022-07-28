@@ -70,7 +70,7 @@ General Informations:
 
 ## Example
 - Launch launcher.bat for automatic installation.
-![home.png](https://media.discordapp.net/attachments/999087343090798764/1001892583762563092/lv_0_20220728003436.gif)
+![home.png](https://media.discordapp.net/attachments/999087343090798764/1002005014241345556/lv_0_20220728080306.mp4)
 
 ## Multi Tool Crashing?
 
