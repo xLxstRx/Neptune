@@ -44,7 +44,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 
 
 <p align="center">
-  <img src="https://streamable.com/jlopfp">
+  <img src="https://repository-images.githubusercontent.com/380137557/d9ad89b2-95d7-42bb-a877-6fe8f293de8b">
 </p>
 
 ```
