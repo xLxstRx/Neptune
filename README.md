@@ -71,9 +71,10 @@ General Informations:
 - Find your output files in the  [output](/output) folder.
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
-## Example
-Do you want Tutorial? you can [watch here](https://streamable.com/jlopfp)
-
+## Tutorial
+```
+- Do you want Tutorial? you can [watch here](https://streamable.com/jlopfp)
+```
 ## Multi Tool Crashing?
 
 > try to reinstall python, if not work contact me on discord!
