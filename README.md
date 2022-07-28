@@ -1,7 +1,4 @@
-<p align="center">
-<video src="https://media.discordapp.net/attachments/1001275844087525447/1001890457451770049/lv_0_20220728003436.mp4">
-</p>
-
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
