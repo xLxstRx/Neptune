@@ -69,7 +69,6 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Example
-- Launch launcher.bat for automatic installation.
 https://media.discordapp.net/attachments/999087343090798764/1001892583762563092/lv_0_20220728003436.gif
 
 ## Multi Tool Crashing?
