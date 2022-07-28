@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/images/1af79e9efec54e8e650342aa336a6051/tenor.gif?ctx=share">
+  <img src="https://imgur.com/a/sxIEq8Z">
 </p>
 
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
