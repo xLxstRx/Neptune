@@ -1,7 +1,6 @@
-<div class="flex-video">
-<video src="https://media.discordapp.net/attachments/1001275844087525447/1001890457451770049/lv_0_20220728003436.mp4" autoplay controls loop>
-</video>
-</div>
+<p align="center">
+<video src="https://media.discordapp.net/attachments/1001275844087525447/1001890457451770049/lv_0_20220728003436.mp4">
+</p>
 
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
 <p align="center">
