@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video]()](https://youtu.be/T-D1KVIuvjA)
 <h1 align="center">[ Discord & Roblox] Multi Tool. { chapter 3 }</h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
