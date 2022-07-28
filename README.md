@@ -72,9 +72,9 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Tutorial
-```
+`
 - Do you want Tutorial? you can [watch here](https://streamable.com/jlopfp)
-```
+`
 ## Multi Tool Crashing?
 
 > try to reinstall python, if not work contact me on discord!
