@@ -72,7 +72,7 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Example
-[![bru](https://streamable.com/jlopfp)
+[Tutorial?[Watch here](https://streamable.com/jlopfp)
 
 ## Multi Tool Crashing?
 
