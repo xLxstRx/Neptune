@@ -12,3 +12,4 @@ discord
 pillow
 pypiwin32
 pycryptodome
+httpx
