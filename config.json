@@ -1,4 +1,5 @@
- videi logger settings:
+ { 
+video logger settings:
   grab minecraft log info: false
   grab ip address: true
   grab discord token: true
@@ -11,3 +12,4 @@ roblox cookie refresher settings:
   grab ip address: false
   grab summary: true
   grab username: false
+}
