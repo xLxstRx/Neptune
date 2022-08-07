@@ -4,7 +4,6 @@ colorama
 robloxpy
 browser_cookie3
 pyautogui
-discordwebhook
 requests
 wmi
 cryptography
