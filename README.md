@@ -20,7 +20,9 @@
     <img src="https://gpvc.arturio.dev/Rdmo1">
   </a>
 </p>
-
+<p align="center">
+  I'm updating python file 🔗, it wil be released in august 18-17
+</p>
 <p align="center">
   ⚠️ [Tips] - Put webhook in "config.js", settings in "config.js".
 </p>
