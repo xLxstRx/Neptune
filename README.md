@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/1001275844087525447/1005140814143434844/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313030313237353834343038373532353434372f313030313838373236343733343937383034382f756e6b6e6f776e2e706e67.png">
 </p>
 
-<h1 align="center">[Discord & Roblox] Multi Tool ⚒️. </h1>
+<h1 align="center"> Updating "main.py", it will be released on August 21. ⚒️. </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
