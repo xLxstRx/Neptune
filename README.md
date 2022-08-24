@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  ⚠️ [Tips] - Make sure to MODIFY the config.js before using 🧩
+  ‼️ [Advice] - Make sure to MODIFY the config.js before using 🧩
 </p>
 
 ## Disclaimer
