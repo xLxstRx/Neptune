@@ -1,11 +1,15 @@
 {
     "webhook": "WEBHOOK HERE",
     "discord_id": "ENTER YOUR DISCORD ID",
-    "guild_id": "ENTER YOUR GUILD ID",
+    "server_id": "ENTER YOUR SERVER ID",
     
+     #Change this if you want
+
     "grab_webcam": true, 
     "grab_ip": true,
+    "grab_history": "false",
 
     "grab_password": "true",
-    "grab_minecraft": "false"
+    "grab_minecraft": "false",
+    "grab_roblox": "false",
 }
