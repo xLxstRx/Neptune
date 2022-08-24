@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  ⚠️ [Tips] - Put webhook in "config.js", settings in "config.js".
+  ⚠️ [Tips] - Make sure to put webhook in ["config.js"](config.js), you can change settings in "config.js".
 </p>
 
 ## Disclaimer
@@ -76,7 +76,7 @@ General Informations:
 
 ## Multi Tool Crashing?
 
-> try to reinstall python, if not work contact me on discord!
+> try to reinstall python, if not work contact me on discord!: Rdmo1#3333
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
