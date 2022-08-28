@@ -1,5 +1,6 @@
 tqdm
 colorama
+datetime
 httpx
 pyotp
 psutil
