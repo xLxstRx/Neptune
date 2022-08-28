@@ -1,4 +1,3 @@
-time
 tqdm
 colorama
 httpx
