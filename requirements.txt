@@ -1,13 +1,9 @@
+time
+tqdm
 colorama
-requests
-datetime
 httpx
-robloxpy
-discordwebhook
-browser_cookie3
 pyotp
 psutil
 pypiwin32
 pycryptodome
-pyinstaller>=5.0
 PIL-tools
