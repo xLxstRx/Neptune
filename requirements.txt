@@ -11,4 +11,4 @@ tqdm==4.64.0
 pyinstaller>=5.0
 PIL-Tools
 pypiwin32
-discord.py==2.0.1
+discord.py==1.7.3
