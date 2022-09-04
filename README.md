@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  ❗[Advice] - Make sure to MODIFY the config.js before using 🧩
+  ❗[Advice] - Make sure to MODIFY the config.yml before using 🧩
 </p>
 
 ## Disclaimer
@@ -61,7 +61,7 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Rdmo1-Swift-Tool
+$ git clone https://github.com/Rdmo1/Neptune
 $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
