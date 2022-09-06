@@ -73,11 +73,11 @@ $ python3 main.py
 ## Additional Informations <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 General Informations:
-- Find your output files in the  [output](/output) folder.
+- Find your output files in the output folder 📁
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Tutorial 🔦
-- ⚒️ do you want tuturoail? you can watch [here](https://streamable.com/s5de26)
+- ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
 
 ## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
