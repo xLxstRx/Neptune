@@ -25,7 +25,7 @@
   ❗[Advice] - Make sure to MODIFY the config.yml before using 🧩
 </p>
 
-## Disclaimer  <img src="https://media.giphy.com/media/ZsXTeKEY7HINZHQPXO/giphy.gif" width="30px"/>
+## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 |Education Purpose Only.|
@@ -33,7 +33,8 @@
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## Features
+## Features  <img src="https://media.giphy.com/media/ZsXTeKEY7HINZHQPXO/giphy.gif" width="30px"/>
+</h1>
 
 
 - [x] - [Discord invite logger]() - Grab discord information by just clicking an invite link.
