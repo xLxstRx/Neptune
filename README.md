@@ -51,7 +51,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 </p>
 
 ```
-40 repo stars + discord source bot compiler 
+60 repo stars + discord source bot viewer 👀
 ```
 
 
