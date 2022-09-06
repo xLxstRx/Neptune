@@ -70,11 +70,10 @@ $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
 
-## Additional Informations <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1>
+## Additional Informations 
 General Informations:
-- Find your output files in the output folder 📁
-- If you find any malfunction, contact me on Discord: Rdmo1#3333
+> Find your output files in the output folder 📁
+> If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Tutorial 🔦
 - ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
