@@ -54,7 +54,7 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 ```
 
 
-## Installation 🔧 <img src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif" width="30px"/>
+## Installation <img src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif" width="30px"/>
 </h1>
 
 #### 1st・Installation (Automated installation)
