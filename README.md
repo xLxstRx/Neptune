@@ -75,7 +75,7 @@ General Informations:
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
 ## Tutorial
-- ⚒️ Do you want tutorial? you can [watch here](https://streamable.com/jlopfp)
+- ⚒️ Do you want tutorial? you can [watch here](https://streamable.com/s5de26)
 
 ## Multi Tool Crashing?
 
