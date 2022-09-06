@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1006899534078685254/1016643954718015519/unknown.png">
 </p>
+<img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+</h1>
 
 <h1 align="center"> [>] Discord & Roblox TOOL ⚒️ [<] </h1>
 <p align="center">
@@ -33,7 +35,7 @@
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## Features  <img src="https://media.giphy.com/media/ZsXTeKEY7HINZHQPXO/giphy.gif" width="30px"/>
+## Features  <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
 
@@ -69,21 +71,25 @@ $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
 
-## Additional Informations
+## Additional Informations <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+</h1>
 General Informations:
 - Find your output files in the  [output](/output) folder.
 - If you find any malfunction, contact me on Discord: Rdmo1#3333
 
-## Tutorial
+## Tutorial <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+</h1>
 - ⚒️ Do you want tutorial? you can [watch here](https://streamable.com/s5de26)
 
-## Multi Tool Crashing?
+## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+</h1>
 
 > try to reinstall python, if not work contact me on discord!: Rdmo1#3333
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
-## Python was not Found?
+## Python was not Found? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+</h1>
 
 > Getting this Error? You probably just installed python
 
