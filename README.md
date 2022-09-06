@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-</h1> Discord & Roblox TOOL ⚒️
+</h1> #### [>] Discord & Roblox TOOL ⚒️[<]
 </h1> </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
