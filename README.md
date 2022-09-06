@@ -3,8 +3,8 @@
 </p>
 
 
-<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1> Discord & Roblox TOOL ⚒️ <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
+<h1 align="center">
+</h1> Discord & Roblox TOOL ⚒️
 </h1> </h1>
 <p align="center">
   <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
