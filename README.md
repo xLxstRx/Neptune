@@ -38,12 +38,12 @@ By using Discord Multi Tool, you agree that you hold responsibility and accounta
 </h1>
 
 
-- [x] - [Discord invite logger]() - Grab discord information by just clicking an invite link.
-- [x] - [Roblox cookie & password grabber]() - Automatic create a t-shirt for your types.
-- [x] - [Discord video logger]() - Grab dicord information by just playing the video link.
-- [x] - [Discord token generator]() - Generate discord token, all fast & valid.
-- [x] - [Roblox email & phone grabber]() - Grab roblox personal info by just id.
-- [x] - [Roblox group stealer]() - Steal roblox group without owner and send them to dicord webhook.
+- [x] - [Discord Webhook Spammer]() - Spam discord webhook in multiple times.
+- [x] - [Discord Webhook Deleter]() - Delete a discord webhook.
+- [x] - [Discord Server Lookup]() - Grab the server icon, banner , name & find the discord tag of the owner.
+- [x] - [Roblox Auto Trade]() - Auto Trade api that will trade your limiteds of the value you want.
+- [x] - [Roblox Pin Cracker]() - Crack Roblox pin within 7 minutes & automatic bypass 'system error' thanks to proxy
+- [x] - [and much much more!]() 
 
 
 <p align="center">
