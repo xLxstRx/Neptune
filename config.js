@@ -9,11 +9,11 @@
 
     "injection_url": "https://raw.githubusercontent.com/addi00000/Discord-Injection/master/injection.js",
 
+ // set to "true" and "false" only!
+
     "grab_system": "false", 
     "grab_screenhot": "false",
     "grab_steamtoken": "false",
-
-  // set to "true" and "false" only!
 
     "grab_epictoken": "false",
     "grab_minecraft": "false",
