@@ -14,6 +14,7 @@
     "grab_steamtoken": "false",
 
   // set to "true" and "false" only!
+
     "grab_epictoken": "false",
     "grab_minecraft": "false",
     "grab_robloxcookie": "false",
