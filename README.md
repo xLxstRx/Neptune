@@ -67,7 +67,7 @@ Launch the launcher.bat file.
 ```
 $ git clone https://github.com/Rdmo1/Neptune
 $ python3 -m pip install -r requirements.txt
-$ python3 main.py
+$ python3 neptune.py
 ```
 
 ## Additional Informations 
